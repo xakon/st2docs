@@ -604,7 +604,7 @@ User Creation
 ~~~~~~~~~~~~~
 
 All user and password management is kept outside of |st2|. Read the
-:doc:`authentication <authentication>` docs to see how to configure to configure |st2| with various
+:doc:`authentication <authentication>` docs to see how to configure |st2| with various
 identity providers.
 
 For sake of this example let us assume that the identity provider is managed by the OS on which
